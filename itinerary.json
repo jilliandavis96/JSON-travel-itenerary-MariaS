@@ -1,0 +1,42 @@
+{
+  "tripName": "European Summer Adventure",
+  "traveler": {
+    "name": "Maria Scaggs",
+    "contact": {
+      "email": "maria.scaggs@email.com",
+      "phone": "555-123-4567"
+    }
+  },
+  "destinations": [
+    {
+      "location": "Paris",
+      "arrivalDate": "2026-06-15",
+      "departureDate": "2026-06-20",
+      "activities": [
+        {
+          "title": "Eiffel Tower Visit",
+          "time": "10:00 AM"
+        },
+        {
+          "title": "Louvre Museum Tour",
+          "time": "2:00 PM"
+        }
+      ]
+    },
+    {
+      "location": "Barcelona",
+      "arrivalDate": "2026-06-21",
+      "departureDate": "2026-06-26",
+      "activities": [
+        {
+          "title": "Sagrada Familia Tour",
+          "time": "9:00 AM"
+        },
+        {
+          "title": "Beach Day at Barceloneta",
+          "time": "3:00 PM"
+        }
+      ]
+    }
+  ]
+}
